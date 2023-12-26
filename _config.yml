@@ -170,6 +170,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-korean-lunr
 
 kramdown:
   syntax_highlighter_opts:
