@@ -2,6 +2,7 @@
 layout: default
 title: rect_object
 parent: 2.1 기초객체 속성(Primitive Object)
+grand_parent: 2. 그래픽 다루기
 ---
 
 # Graphics (RECT) 
