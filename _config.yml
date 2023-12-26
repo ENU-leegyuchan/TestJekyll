@@ -185,3 +185,8 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
