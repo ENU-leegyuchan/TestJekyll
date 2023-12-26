@@ -8,4 +8,4 @@ nav_order: 2
 {: .no_toc }
 
 Menu2 Test
-{: .fs-6 .fw-300 }</code>
+{: .fs-6 .fw-300 }

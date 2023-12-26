@@ -8,4 +8,4 @@ permalink: /docs/menu3
 
 # Menu3
 
-Menu3 Page tests</code>
+Menu3 Page tests
