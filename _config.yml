@@ -190,3 +190,6 @@ sass:
   style: compressed
   load_paths:
     - _sass
+
+lunr:
+  version: "10.0.6"
